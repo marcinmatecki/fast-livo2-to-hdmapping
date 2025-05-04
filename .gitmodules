@@ -1,0 +1,15 @@
+[submodule "src/FAST-LIVO"]
+	path = src/FAST-LIVO2
+	url = https://github.com/hku-mars/FAST-LIVO2.git
+[submodule "src/cpp_pubsub/src/3rdparty/LASzip"]
+	path = src/cpp_pubsub/src/3rdparty/LASzip
+	url = https://github.com/LASzip/LASzip.git
+[submodule "src/livox_ros_driver"]
+        path = src/livox_ros_driver
+	url = https://github.com/Livox-SDK/livox_ros_driver.git
+[submodule "src/Sophus"]
+	path = src/Sophus
+	url = https://github.com/strasdat/Sophus.git
+[submodule "src/rpg_vikit"]
+	path = src/rpg_vikit
+	url = git clone https://github.com/xuankuzcr/rpg_vikit.git 
